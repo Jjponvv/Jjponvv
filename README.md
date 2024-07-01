@@ -16,24 +16,6 @@
 
 <h2 align="left">I code with</h2>
 
-<h1 align="left">Hey all!😉</h1>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning python, unity and c#<br>🎯 Goals: I created my first program on GitHub name Cloder:)<br>🎲 Fun fact: I like sweets</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
 ###
 
 <div align="left">
