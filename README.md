@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning python, unity and c#<br>🎯 Goals: I created my first program on GitHub name Cloder:)<br>🎲 Fun fact: I like sweets</p>
+<p align="left">📚 I'm currently learning python, unity and c#<br>🎯 Goals: Now I creating a game like pixel war challenge but on site<br>🎲 Fun fact: I play basketball well </p>
 
 ###
 
